@@ -1,0 +1,66 @@
+{
+	"adventure": [
+		{"name": "End Remastered", "version": "5.3.3-R"},
+		{"name": "Enhanced Celestials", "versions": "5.0.1.0"}
+	],
+	"decoration": [
+		{"name": "Supplementaries", "version": "3.1.0", "to": [
+			"YUNG's Better Jungle Temples"
+		]}
+	],
+	"food": [
+		{"name": "Farmer's Delight", "version": "1.2.5", "addons": [
+			{"name": "Chef's Delight", "version": "1.0.3"},
+			{"name": "My Nether's Delight", "version": "1.7.6"}
+		]}
+	],
+	"game-mechanics": [
+		{"name": "Diet", "version": "2.1.1"},
+		{"name": "Hardcore Revival", "version": "12.0.6"},
+		{"name": "Serene Seasons", "version": "9.1.0.0"},
+		{"name": "Tough As Nails", "version": "9.2.0.171"}
+	],
+	"library": [
+		{"name": "Balm", "version": "7.3.9"},
+		{"name": "Citadel", "version": "2.6.0"},
+		{"name": "CorgiLib", "version": "4.0.3.2"},
+		{"name": "Curios API", "version": "5.11.0"},
+		{"name": "Framework", "version": "0.7.11"},
+		{"name": "Geckolib", "version": "4.4.9"},
+		{"name": "GlitchCore", "version": "0.0.1.1"},
+		{"name": "Moonlight Lib", "version": "2.13.21"},
+		{"name": "Resourceful Config", "version": "2.1.2"},
+		{"name": "TerraBlender", "version": "3.0.1.7"},
+		{"name": "YUNG's API", "version": "4.0.6"}
+	],
+	"management": [
+		{"name": "Paxi", "version": "4.0"}
+	],
+	"mobs": [
+		{"name": "Alex's Mobs", "version": "1.22.9"},
+		{"name": "Creeper Overhaul", "version": "3.0.2"},
+		{"name": "Enderman Overhaul", "version": "1.0.4"},
+		{"name": "Friends & Foes", "version": "3.0.5"},
+		{"name": "Guard Villagers", "version": "1.6.7"}
+	],
+	"optimization": [
+		{"name": "FerriteCore", "version": "6.0.1"}
+	],
+	"social": [
+		{"name": "Simple Voice Chat", "version": "2.5.25"}
+	],
+	"storage": [
+		{"name": "Backpacked", "version": "3.0.0-beta.9"},
+		{"name": "Enigmatic Graves Fork", "version": "1.8.0"}
+	],
+	"technology": [
+		{"name": "CC: Tweaked", "version": "1.113.1"},
+		{"name": "Create", "version": "0.5.1.j"}
+	],
+	"transportation": [
+		{"name": "Carry On", "version": "2.1.2.7"}
+	],
+	"world-generation": [
+		{"name": "Biomes O' Plenty", "version": "19.0.0.91"}
+	]
+}

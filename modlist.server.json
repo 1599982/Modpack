@@ -1,0 +1,31 @@
+{
+	"game-mechanics": [
+		{"name": "Better Days", "version": "3.1.1.1"},
+		{"name": "Nether Portal Spread", "version": "8.3"}
+	],
+	"library": [
+		{"name": "Collective", "version": "7.87"}
+	],
+	"optimization": [
+		{"name": "ModernFix", "version": "5.19.5"},
+		{"name": "Noisium", "version": "2.3.0"},
+		{"name": "Radium", "version": "0.12.4"}
+	],
+	"utility": [
+		{"name": "Skin Restorer", "version": "2.1.0"}
+	],
+	"world-generation": [
+		{"name": "Create: New Beginnings", "version": "0.1.0", "require": [
+			"Create"
+		]},
+		{"name": "Tectonic", "version": "2.4.1"},
+		{"name": "YUNG's Better Desert Temples", "version": "3.0.3"},
+		{"name": "YUNG's Better Dungeons", "version": "4.0.4"},
+		{"name": "YUNG's Better Jungle Temples", "version": "2.0.5"},
+		{"name": "YUNG's Better Mineshafts", "version": "4.0.4"},
+		{"name": "YUNG's Better Nether Fortresses", "version": "2.0.6"},
+		{"name": "YUNG's Better Ocean Monuments", "version": "3.0.4"},
+		{"name": "YUNG's Better Strongholds", "version": "4.0.3"},
+		{"name": "YUNG's Better Witch Huts", "version": "3.0.3"}
+	]
+}

@@ -1,0 +1,10 @@
+*
+
+!client/
+!server/
+!.gitignore
+!modlist.client.json
+!modlist.json
+!modlist.server.json
+!resourcelist.datapacks.json
+!resourcelist.resourcepacks.json

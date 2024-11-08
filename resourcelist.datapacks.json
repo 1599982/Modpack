@@ -1,0 +1,18 @@
+{
+	"game-mechanics": [
+		{"name": "Malicious Vision: Custom Recipes", "version": "1-1", "require": [
+			"Backpacked"
+		], "modded": true}
+	],
+	"world-generation": [
+		{"name": "Amplified Nether", "version": "1.2.5"},
+		{"name": "Create: Structures", "version": "0.1.1-1", "require": [
+			"Create"
+		], "modded": true},
+		{"name": "Malicious Vision: No Structures", "version": "1-1", "require": [
+			"Create: New Beginnings",
+			"YUNG's Better Dungeons"
+		], "modded": true},
+		{"name": "noMonsterRoom", "version": "1.0"}
+	]
+}
