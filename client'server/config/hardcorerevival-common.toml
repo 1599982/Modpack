@@ -8,12 +8,12 @@ continueTimerWhileOffline = false
 rescueActionTicks = 60
 #The amount of health to respawn with when a player was rescued, out of 20.
 #Range: > -2147483648
-rescueRespawnHealth = 3
+rescueRespawnHealth = 6
 #The food level to respawn with when a player was rescued, out of 20.
 #Range: > -2147483648
 rescueRespawnFoodLevel = 6
 #Effects applied to a player when rescued, in the format "effect|duration|amplifier"
-rescueRespawnEffects = ["minecraft:hunger|600|0", "minecraft:weakness|1200|0"]
+rescueRespawnEffects = ["minecraft:hunger|600|0", "toughasnails:thirst|600|0"]
 #The distance at which a player can rescue another.
 #Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
 rescueDistance = 2.0
