@@ -21,6 +21,7 @@
 		{"name": "Tough As Nails", "version": "9.2.0.171"}
 	],
 	"library": [
+		{"name": "Architectury API", "version": "9.2.14"},
 		{"name": "Balm", "version": "7.3.9"},
 		{"name": "Citadel", "version": "2.6.0"},
 		{"name": "CorgiLib", "version": "4.0.3.2"},
@@ -61,6 +62,8 @@
 		{"name": "Carry On", "version": "2.1.2.7"}
 	],
 	"world-generation": [
-		{"name": "Biomes O' Plenty", "version": "19.0.0.91"}
+		{"name": "Alex's Caves", "version": "2.0.2"},
+		{"name": "Biomes O' Plenty", "version": "19.0.0.91"},
+		{"name": "Jaden's Nether Expansion", "version": "2.1.3"}
 	]
 }
