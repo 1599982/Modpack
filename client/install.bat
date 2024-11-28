@@ -8,8 +8,13 @@ if not exist %mcfolder% (
 	exit /b 1
 )
 
-rmdir /s /q %mcfolder%\config 2 > nul
-rmdir /s /q %mcfolder%\mods 2 > nul
+for %%m in (supplementaries-1.20-3.1.0
+			moonlight-1.20-2.13.21-forge
+			friendsandfoes-forge-mc1.20.1-3.0.5
+			voicechat-forge-1.20.1-2.5.25
+			cc-tweaked-1.20.1-forge-1.113.1) do (
+	del %mcfolder%\mods\%%m.jar
+)
 
 xcopy /e /i /y %pwd%\config %mcfolder%\config
 xcopy /e /i /y %pwd%\mods %mcfolder%\mods
