@@ -1,6 +1,7 @@
 *
 
 !client/
+!client'server/
 !server/
 !.gitignore
 !modlist.client.json
