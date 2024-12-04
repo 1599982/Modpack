@@ -61,6 +61,9 @@
 	"transportation": [
 		{"name": "Carry On", "version": "2.1.2.7"}
 	],
+	"utility": [
+		{"name": "Just Enough Items", "version": "15.20.0.105"}
+	],
 	"world-generation": [
 		{"name": "Alex's Caves", "version": "2.0.2"},
 		{"name": "Biomes O' Plenty", "version": "19.0.0.91"},
